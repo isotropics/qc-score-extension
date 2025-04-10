@@ -1,0 +1,15 @@
+.qc-score-badge {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  padding: 4px 8px;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 6px;
+  color: white;
+  z-index: 9999;
+}
+.qc-score-10 { background-color: #28a745; }
+.qc-score-7  { background-color: #ffc107; }
+.qc-score-4  { background-color: #fd7e14; }
+.qc-score-1  { background-color: #dc3545; }
